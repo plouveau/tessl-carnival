@@ -1,5 +1,9 @@
 # Tessl Carnival
 
+> **This is a fork.** This repository is
+> [plouveau/tessl-carnival](https://github.com/plouveau/tessl-carnival), a fork
+> of the original [tesslio/tessl-carnival](https://github.com/tesslio/tessl-carnival).
+
 [![AI DevCon NYC, 2 to 4 November 2026](https://img.shields.io/badge/AI%20DevCon%20NYC-2--4%20Nov%202026-e63946)](https://tessl.io/devcon?utm_source=github&utm_medium=readme&utm_campaign=tessl-carnival)
 [![Play the carnival](https://img.shields.io/badge/Play-the%20carnival-ffcc33)](https://tesslio.github.io/tessl-carnival/)
 [![Built with Tessl](https://img.shields.io/badge/Built%20with-Tessl-1b1035)](https://tessl.io/?utm_source=github&utm_medium=readme&utm_campaign=tessl-carnival)
